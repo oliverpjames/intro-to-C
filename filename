@@ -1,0 +1,8 @@
+Oh Hai
+When using NX in Windows you can cut and paste text from one place to another, for
+example from the Acrobat Reader window containing this document to the nedit window
+used to edit a text file. Select the text with the mouse (hold down the left button and
+sweep across text). Use ctrl-c to copy the highlighted text to the clipboard. Move to
+the nedit window and use ctrl-v to paste the text from the clipboard into the file. You
+will be able to lift the source code of programs listed in this document into source files on
+SPECTRE using this method to save typing
